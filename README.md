@@ -13,7 +13,7 @@ This repo contains the following files:
 * **TopicModeling.ipynb**, notebook which:
   * Prepares the submissions collected from **RedditScrape.ipynb** for topic modeling
   * Performs topic modeling using Term Frequency-Inverse Document Frequency (TF-IDF) and Non-negative Matrix Factorization (NMF)
-  * Creates an interactive t-SNE plot to visualize the topics
+  * Creates an interactive t-SNE plot to visualize the topics (see **gradadmissions.html**)
 * **SupervisedLearningFromTopics.ipynb**, notebook which:
   * Prepares and merges the submission (document)-topic matrix from **TopicModeling.ipynb** and comments collected from **RedditScrape.ipynb** as data for a set of logistic regression models
   * Builds, evaluates, selects, and mildly tunes a logistic regression model
