@@ -10,7 +10,7 @@ For this work, I characterize "useful feedback" according to whether the origina
 
 This repo contains the following files:
 * **RedditScrape.ipynb**, notebook which collects submissions and their associated comments from r/GradAdmissions
-* **GetOPAttributesFinal.ipynb**, notebook which collects attributes of the OP for each submission from r/GradAdmisions pulled using **RedditScrape.ipynb**
+* **GetOPAttributesFinal.ipynb**, notebook which collects attributes of the OP for each submission from pulled using **RedditScrape.ipynb**
 * **TopicModeling.ipynb**, notebook which:
   * Prepares the submissions collected from **RedditScrape.ipynb** for topic modeling
   * Performs topic modeling using Term Frequency-Inverse Document Frequency (TF-IDF) and Non-negative Matrix Factorization (NMF)
