@@ -18,3 +18,5 @@ This repo contains the following files:
 * **SupervisedLearningFromTopics.ipynb**, notebook which:
   * Prepares and merges the submission (document)-topic matrix from **TopicModeling.ipynb** and comments collected from **RedditScrape.ipynb** as data for a set of logistic regression models
   * Builds, evaluates, selects, and mildly tunes a logistic regression model
+
+Blog post describing everything in more detail [here](https://douglaswlee.github.io/Reddit-Gradschool/)
